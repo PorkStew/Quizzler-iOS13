@@ -1,6 +1,9 @@
 
 #  Quizzler
 
+## Portrait
+<img src="images/Quizzler.PNG" width=600px;>
+
 ## What you will learn
 
 * How to programmatically change UI elements such as Labels and Buttons.
